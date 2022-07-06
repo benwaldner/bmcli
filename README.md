@@ -4,8 +4,6 @@ Note that issue: https://github.com/darkerego/bmcli/issues/1
 
 #BMCLI - Bitmex Api Tool
 
-======
-
 ## About:
 
 <p>
