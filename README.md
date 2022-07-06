@@ -4,12 +4,6 @@ Note that issue: https://github.com/darkerego/bmcli/issues/1
 
 #BMCLI - Bitmex Api Tool
 
-~ Darkerego, 2019 - 2020
-
-BTC: 16XCgQyNxoYmduCxWBoVQwk8QgLw6dZ8De
-
-### BITMEX SUCKS. COME TO [FTX](https://ftx.com/#a=darkerego)
-
 ======
 
 ## About:
@@ -224,3 +218,8 @@ INFO:bmexlib.bitmex_api_lib:Sell triggered | Price: 9553.50000000 | Stop loss: 9
 </pre>
 
 [![asciicast](https://asciinema.org/a/bOtzGkjuHNKGo5kEnAWWoOimH.svg)](https://asciinema.org/a/bOtzGkjuHNKGo5kEnAWWoOimH)
+
+# Donation to the author
+BTC: 16XCgQyNxoYmduCxWBoVQwk8QgLw6dZ8De
+### BITMEX SUCKS. COME TO [FTX](https://ftx.com/#a=darkerego)
+Author: Darkerego, 2019 - 2020
